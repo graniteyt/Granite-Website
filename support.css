@@ -121,11 +121,10 @@ section p {
     border-radius: 10px;
     padding: 15px 30px;
     margin: 20px auto;
-    transition: all .3s ease-in-out;
     position: relative;
     height: 60px;
     width: 80px;
-    transition: all .3s ease-in-out;
+    transition: 500ms all  ease;
 }
 
 .donate-btn a {
@@ -136,8 +135,8 @@ section p {
 }
 
 .donate-btn:hover {
-    transform: scale(1.1);
-    border-radius: 20px;
+    transform: scale(1.05);
+    border-radius: 15px;
 }
 
 @media (max-width: 768px) {

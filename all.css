@@ -99,12 +99,12 @@ section ul {
 .page {
     list-style: none;
     margin-bottom: 20px;
-    transition: 0.5s ease-in-out;
+    transition: 200ms all ease-in-out;
     font-size: 20px;
 }
 
 .page:hover {
-    transform: scale(1.1);
+    transform: scale(1.05);
 }
 
 .page a {
