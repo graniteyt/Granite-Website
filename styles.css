@@ -12,7 +12,7 @@
 
 body {
     position: relative;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "JetBrains Mono";
     font-size: 16px;
     color: var(--text-color);
     overflow-x: hidden;
